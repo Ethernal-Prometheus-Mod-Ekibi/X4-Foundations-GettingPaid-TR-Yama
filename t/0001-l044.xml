@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--GettingPaid Mod-->
+<diff>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2000']"><t id="2000">Getting Paid güncellemesi sürüm %1 tamamlandı.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2001']"><t id="2001">Getting Paid yüklendi.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2002']"><t id="2002">Maaş ödemesi genel bakışı:</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2003']"><t id="2003">%s Yönetici, %s Kaptan, %s Pilot için toplam ödenen maaş,\n%s Hizmet ekibi ve %s Denizci.\nToplam maliyet: %s Cr.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2004']"><t id="2004">%s Yönetici, %s Kaptan, %s Pilot için tam maaş ödenemedi,\n%s Hizmet ekibi ve %s Denizci.\nToplam maliyet: %s Cr.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2005']"><t id="2005">%s Yönetici, %s Kaptan, %s Pilot için hiçbir maaş ödenemedi,\n%s Hizmet ekibi ve %s Denizci.\nToplam maliyet: %s Cr.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2006']"><t id="2006">Detaylı genel bakış:\n[Askeri Ara Toplam: %s Cr]\n  %s Yönetici: %s Cr\n  %s Kaptan: %s Cr\n  %s Pilot: %s Cr\n  %s Hizmet ekibi: %s Cr\n  %s Denizci: %s Cr\n[Sivil &amp; Endüstriyel Ara Toplam: %s Cr]\n  %s Yönetici: %s Cr\n  %s Kaptan: %s Cr\n  %s Pilot: %s Cr\n  %s Hizmet ekibi: %s Cr\n  %s Denizci: %s Cr</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2007']"><t id="2007">\033REkip olay raporu:\033X</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2008']"><t id="2008">İsyanlar yaşandı! Ekip gemiyi kurtarabildi, \n%1 Hizmet işçisi ve \n%2 Denizci olayda hayatını kaybetti.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2009']"><t id="2009">Ödenmeyen maaş nedeniyle büyük bir memnuniyetsizlik oluştu \n%1 Hizmet ekibi ve \n%2 Denizci hizmet sözleşmelerini sonlandırdı.</t></replace>
+	<replace sel="//language[@id='44']/page[@id='72724373']/t[@id='2010']"><t id="2010">Ödenmeyen maaşın neden olduğu büyük memnuniyetsizlik ve bunalım sebebiyle \n%1 Hizmet ekibi ve \n%2 Denizci hizmet sözleşmelerini sonlandırdı.</t></replace>
+</diff>
